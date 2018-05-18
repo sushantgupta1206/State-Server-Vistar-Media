@@ -9,6 +9,6 @@ A server to determine the state name after checking the boundaries.
 > if you need to install node use ```npm install node```  
 > add all packages to the folder by running ```npm install```  
 > Run the Server: ``` node server.js```  
-> Run the command : curl -d "longitude=-77.036133&latitude=40.513799" http://localhost:8080/  
+> Run the command : ```curl -d "longitude=-77.036133&latitude=40.513799" http://localhost:8080/```  
 OR 
 > Go to the browser and enter: ```http://localhost:8080/?longitude=-77.036133&latitude=40.513799``` in the URL tab  
