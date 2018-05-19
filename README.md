@@ -2,10 +2,10 @@
 A server to determine the state name in USA after checking state the boundaries.  
 
 ## Stack
-Os : Windows
-node.js version v6.11.0
-npm libraries: express, fs, badyparser
-tested using : git bash and postman
+**Os :** Windows  
+**node.js version:** v6.11.0  
+**npm libraries:** express, fs, badyparser  
+**Tested using :** git bash and postman  
 
 ## Readings/ References:
 1. http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html  
