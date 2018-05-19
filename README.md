@@ -19,3 +19,6 @@ A server to determine the state name in USA after checking state the boundaries.
 
 ## Screenshot
 1. Desired output: [here](https://github.com/sushantgupta1206/State-Server-Vistar-Media/blob/master/outputTerminal.PNG)  
+
+## Note:
+I have made a small change to the states.json file by making the entire input in the form of an array.
