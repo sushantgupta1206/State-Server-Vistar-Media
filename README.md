@@ -1,14 +1,23 @@
 # State-Server-Vistar-Media
-A server to determine the state name after checking the boundaries.  
+A server to determine the state in USA name after checking state the boundaries.  
+
+## Stack
+Os : Windows
+node.js version v6.11.0
+npm libraries: express, fs, badyparser
+tested using : git bash and postman
 
 ## Readings/ References:
-> 1. http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html  
-> 2. https://stackoverflow.com/questions/22521982/js-check-if-point-inside-a-polygon  
+1. http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html  
+2. https://stackoverflow.com/questions/22521982/js-check-if-point-inside-a-polygon  
 
 ## Steps to test the server:
-> if you need to install node use ```npm install node```  
-> add all packages to the folder by running ```npm install```  
-> Run the Server: ``` node server.js```  
-> Run the command : ```curl -d "longitude=-77.036133&latitude=40.513799" http://localhost:8080/```  
-OR 
-> Go to the browser and enter: ```http://localhost:8080/?longitude=-77.036133&latitude=40.513799``` in the URL tab  
+> 1. Install node.js  
+> 2. Add all npm packages to the folder by running ```npm install```  
+> 3. Run the Server: ``` node server.js```  
+> 4. Run the command : ```curl -s -d '{"longitude":-77.036133,"latitude":40.513799}' -H "Content-Type: application/json" http://localhost:8080/``` in git bash.
+
+## Screenshots
+1. Server Console: []
+3. Desired output: []
+ 
