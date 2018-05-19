@@ -1,5 +1,5 @@
 # State-Server-Vistar-Media
-A server to determine the state in USA name after checking state the boundaries.  
+A server to determine the state name in USA after checking state the boundaries.  
 
 ## Stack
 Os : Windows
