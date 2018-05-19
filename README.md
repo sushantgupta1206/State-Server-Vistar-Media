@@ -17,7 +17,5 @@ tested using : git bash and postman
 > 3. Run the Server: ``` node server.js```  
 > 4. Run the command : ```curl -s -d '{"longitude":-77.036133,"latitude":40.513799}' -H "Content-Type: application/json" http://localhost:8080/``` in git bash.
 
-## Screenshots
-1. Server Console: []
-3. Desired output: []
- 
+## Screenshot
+1. Desired output: [here](https://github.com/sushantgupta1206/State-Server-Vistar-Media/blob/master/outputTerminal.PNG)  
